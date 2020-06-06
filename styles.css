@@ -1,0 +1,35 @@
+.box {
+  height: 300px;
+  width: 150px;
+  background-color:red;
+}
+
+h1{
+  font-family: cursive;
+  text-align: center;
+}
+
+.Art {
+  margin: auto;
+}
+
+
+#one {
+  background-color: black;
+}
+
+#two {
+  background-color: black;
+}
+
+#three {
+  background-color: black;
+}
+
+#four {
+  background-color: black;
+}
+
+#five {
+  background-color: black;
+}

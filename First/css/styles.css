@@ -1,0 +1,19 @@
+.top{
+  background-color: #E4F9F5;
+}
+
+.middle{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+
+.pro {
+  text-decoration: underline;
+}
